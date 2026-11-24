@@ -69,7 +69,6 @@ The display tracked joystick displacement smoothly in real time, confirming corr
 
 The seven-segment drawing helpers are adapted from the MSP432 seven-segment LCD framework by Qilin Si & Max Steele.
 
-## Authors
+## Author
 
-- **Shrinath Abhay Palwankar**
 - **Aryan Verma**
